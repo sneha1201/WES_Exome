@@ -5,7 +5,7 @@ Requirements : Python is installed in the root .
 Data Require
     •  Fastq files ending with _R1.fastq.gz , _R2.fastq.gz 
     • Put both Fastq files in the same folder , where results are also going to save .
-    • reference.fasta - This script assumes a reference file as this name only and script and reference file should be in the same directory .
+    • reference.fasta - This script assumes a reference file as this name only and script and reference file should be in the same directory . 
 
 Usage : 
 
