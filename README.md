@@ -1,5 +1,5 @@
 # WES_Exome
-Whole Exome Sequencing analysis from raw data to vcf generation
+Whole Exome Sequencing analysis from raw data to vcf generation using BCFTOOLS (python script ) 
 Requirements : Python is installed in the root .
 
 Data Require
